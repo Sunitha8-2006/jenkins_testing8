@@ -11,7 +11,7 @@ class CseaddTest {
     @Test
     void csetest() {
         int result = c.add(2, 3);
-        assertEquals(6, result);
+        assertEquals(5, result);
     }
 
     @Test
